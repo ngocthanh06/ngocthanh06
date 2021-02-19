@@ -9,7 +9,9 @@
 <br />
 
 - 🔭 I’m currently working on PHP Developer and Vuejs
-- 😄 I'm starting to learn about Data engineer and improve my English. 
+<!-- 
+- 😄 I'm starting to learn about Data engineer and improve my English.  
+-->
 
 - 📫 How to reach me: ...
 - Facebook: [@Ngoc Thanh](https://www.facebook.com/profile.php?id=100009989016153) 😏
